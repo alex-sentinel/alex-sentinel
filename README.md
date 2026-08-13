@@ -2,6 +2,6 @@
 
 What I built: Finished the bug journal entries and the "shipped my first thing" post for E's Sweet Cakes. 
 
-What broke: Nothing today — this was a writing session, not a build session. 
+What broke: Nothing. this was a writing session, not a build session. 
 
-What's next: Back into n8n to finish mom's automation (webhook → sheets → auto-reply, needs the production URL swap), then dad's AFE Transportation site.
+What's next: Back to n8n to finish mom's automation (webhook → sheets → auto-reply, needs the production URL swap), then dad's AFE Transportation site.
