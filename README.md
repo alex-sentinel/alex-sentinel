@@ -1,3 +1,13 @@
+## 2026-09-01 – Moved n8n to Hetzner, mom's automation is live. Now moving toward outbound.
+
+What I built: I switched the production for E's Sweet Cakes — n8n running on Hetzner, domain set, webhook → google sheets → auto reply live for actual customers. I also finished my documentation for this build. My mom is the first shipped client.
+
+What broke: My momentum. I took 12 days to add another entry. The build was basically done at the last update, I just had to finish and I stalled for a bit. I am noting it here so I can focus on breaking this pattern.
+
+What's next: Dad's AFE Transportation demo site, then my own site. My 3 sites together make a portfolio. Once my portfolio exists, I go outbound, no more building without a client. 
+
+
+
 ## 2026-08-18 — Mom's automation tested, next: hosting + dad's site
 
 What I built: A working workflow tested on localhost: webhook → Sheets → text to mom
